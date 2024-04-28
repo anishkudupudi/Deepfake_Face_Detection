@@ -1,4 +1,4 @@
-# Deepfake_Detection
+# Deepfake Face Detection
 This program collects data from the rvf10k dataset containing real and fake pictures of human faces. This model employs a Convolutional Neural Network to detect fake images with 85% accuracy.
 
 Deepfakes are everywhere now, and like us you're probably wondering ["wow how am I going to figure out if that video of Morgan Freeman telling me he isn't real, is actually real?"](https://youtu.be/oxXpB9pSETo). While a true deepfake detector is too complicated for a single semester, we're going to do something a little bit easier - try and determine whether a picture of a face is fake or not. You'll definitely enjoy this project if you want to learn about neural networks, computer vision, and figuring out if your friend keeps Photoshopping their Instagram posts.
