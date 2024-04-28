@@ -1,6 +1,6 @@
-from final_program.dataset import get_loaders
-from final_program.train import train_model, plot_performance, load_model
-from final_program.model import Model
+from model.dataset import get_loaders
+from model.train import train_model, plot_performance, load_model
+from model.model import Model
 import torch
 import os
 
